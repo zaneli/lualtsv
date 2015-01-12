@@ -4,6 +4,9 @@ lualtsv
 
 Labeled Tab-separated Values(`LTSV`_) parser for Lua
 
+.. image:: https://api.travis-ci.org/zaneli/lualtsv.png?branch=master
+   :target: https://travis-ci.org/zaneli/lualtsv
+
 Installation
 =======
 
